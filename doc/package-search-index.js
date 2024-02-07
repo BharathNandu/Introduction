@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.javabrushup"},{"l":"org.learn"}];updateSearchResults();
